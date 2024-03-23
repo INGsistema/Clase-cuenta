@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1711198216 source:c:\progra ii\evaluacion1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Cuenta.h"
+	"Abono.h"
+
+1711201712 c:\progra ii\evaluacion1\include\cliente.h
+	<iostream>
+	<string>
+
+1711201712 c:\progra ii\evaluacion1\include\cuenta.h
+	<iostream>
+	<string>
+	"Cliente.h"
+	"Abono.h"
+
+1711202126 c:\progra ii\evaluacion1\include\abono.h
+	"Fecha.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1711201818 c:\progra ii\evaluacion1\include\fecha.h
+	<iostream>
+	<string>
+
